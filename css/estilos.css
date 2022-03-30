@@ -17,3 +17,13 @@
     font-size: 15px;
     color: red;
 }
+#cabezera{
+    background-color:rgb(0, 66, 87);
+    color: white;
+    margin: 0 auto;
+    padding: 0.5em;
+   box-shadow: 0px 5px 30px rgb(3, 3, 3);
+    }
+    #post{
+        padding:1em;
+        }
